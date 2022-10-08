@@ -2,7 +2,7 @@
 name: Add docs
 about: Request for docs being added.
 title: ''
-labels: ''
+labels: type:docs-add
 assignees: ''
 
 ---

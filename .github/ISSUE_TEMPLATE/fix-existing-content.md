@@ -2,7 +2,7 @@
 name: Fix existing content
 about: Issue template for typos, important additions, etc.
 title: ''
-labels: ''
+labels: type:error
 assignees: ''
 
 ---

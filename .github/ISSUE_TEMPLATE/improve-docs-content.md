@@ -2,7 +2,7 @@
 name: Improve docs content
 about: Improve existing content.
 title: ''
-labels: ''
+labels: type:other-enhancement
 assignees: ''
 
 ---
