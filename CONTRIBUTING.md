@@ -18,3 +18,25 @@ Some notes:
 
 - **Don't use the Git terminal.** We like using the "Edit" button instead on GitHub. We will ask you if you did your commit using the Git terminal. If you say no, we will close your PR.
 - **Major changes should be discussed on an issue first.** In our opinion, we like to use issues to discuss major changes.
+
+
+## Website Important Text block for new pages
+New pages should **ALWAYS** contain this text block.
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home | MarkdownDocs | Documentation</title>
+        <link rel="stylesheet" href="./assets/globalstyle.hKgZHsNy1o.css">
+    </head>
+    <body>
+        <div class="navbar">
+            <h2>MarkdownDocs Docs</h2>
+            <a href="#">Home</a>
+        </div>
+    </body>
+</html>
+```
+
+Optional ones are hosted on [this unpublished file](./unpublished/text-blocks.md).
